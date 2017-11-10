@@ -1,0 +1,14 @@
+
+public class Test01 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		YuanZhu yz1=new YuanZhu(5,3);
+		YuanZhui yz2=new YuanZhui(10,3);
+		yz1.ZhuTiji();
+		yz2.ZhuiTiji();   
+	}
+}
